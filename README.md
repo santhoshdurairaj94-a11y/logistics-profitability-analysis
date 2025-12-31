@@ -38,3 +38,12 @@ High revenue does not always imply high efficiency. Certain routes consume dispr
 
 ## Notes
 The dataset used is synthetic and created for analytical and portfolio purposes.
+
+👨‍💻 Author
+
+Santhosh D
+Data Enthusiast | Power BI | SQL | Python | AI Analytics
+📧 santhoshdurairaj94@gmail.com
+🌐 www.linkedin.com/in/santhosh-durairaj07
+
+⭐ If you like this project, give it a star and check out my other dashboards!
